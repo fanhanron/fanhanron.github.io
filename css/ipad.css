@@ -1,0 +1,50 @@
+@media only screen and (min-width:768px) and (max-width:1024px) {
+    .comcontainer {
+        width: 100%;
+        margin: 0;
+    }
+    /*导航栏*/
+    .logo-container{
+        margin-left: 0;
+    }
+    .mainmenu li {
+        display: inline-block;
+        margin-right: 10px;
+    }
+    .portrait{
+        margin-right: 0;
+    }
+    .portrait .myportrait{
+        margin: 15px 10px;
+    }
+    /*第一屏*/
+    .mainbody {
+        width: 100%;
+    }
+    .mainbody h1 {
+        font-size: 50px;
+    }
+    /*guan yu wo*/
+    #section1{
+        width: 100%;
+    }
+    /*作品*/
+    #section3 {
+        width:100%;
+    }
+    .project-list {
+        width: auto;
+    }
+    /*lian xi*/
+    .contactlinks{
+        width: 100%;
+        height: 150px;
+        margin: 0;
+        top: 130px;
+    }
+    .contactlinks li{
+        margin: 0;
+        width:32.4%;
+    }
+
+}
