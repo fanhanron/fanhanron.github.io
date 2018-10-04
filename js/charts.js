@@ -18,14 +18,11 @@ var option = {
             type: 'pie',
             radius: '55%',
             data:[
-                {value:95, name:'HTML'},
-                {value:95, name:'CSS'},
-                {value:90, name:'JS'},
-                {value:85, name:'Jquery'},
-                {value:70, name:'React.js'},
-                {value:60, name:'Angular1.x'},
-                {value:60, name:'Vue.js'},
-                {value:70, name:'Webpack'}
+                {value:70, name:'javascript'},
+				{value:70, name:'css'},
+                {value:60, name:'linux'},
+                {value:70, name:'php'},
+                {value:70, name:'mysql'}
             ],
             roseType: 'angle',
             itemStyle: {
